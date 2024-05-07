@@ -1,1 +1,1 @@
-maths mark = 30
+maths mark = 40
