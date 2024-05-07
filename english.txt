@@ -1,1 +1,1 @@
-english mark = 20
+english mark = 100
